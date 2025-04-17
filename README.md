@@ -1,2 +1,2 @@
 # Hotel-Management
-C#, .Net Framework, LINQ Method
+C#, .Net Framework, LINQ Method, SQL Server
